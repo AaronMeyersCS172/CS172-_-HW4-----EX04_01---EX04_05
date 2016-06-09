@@ -1,0 +1,5 @@
+﻿  Rectangle2D Class Functions.cpp
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-4\hw-4 _ ex04_04\hw-4 _ ex04_04\rectangle2d class functions.cpp(106): warning C4244: 'argument': conversion from 'const double' to 'std::streamsize', possible loss of data
+  HW-4 _ EX04_04.cpp
+  Generating Code...
+  HW-4 _ EX04_04.vcxproj -> C:\Users\Aaron C Meyers\Desktop\CS172_Lectures and Homework\Homework\HW-4\HW-4 _ EX04_04\Debug\HW-4 _ EX04_04.exe
