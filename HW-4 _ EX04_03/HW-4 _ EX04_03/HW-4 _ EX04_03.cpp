@@ -28,6 +28,9 @@ int FindSmallestElement(const int *Elements, int size)
 	int NewSize = size; // Creates a variable that is equal to the size of the array
 	int *Array = new int[NewSize]; // Creates an array that is the smae size as the original array
 
+//PT -- This is unnecessary. You don't need to copy the data over to a new array. Just walk through the array that was given.
+//PT -- 18/20
+
 	// This loop will take the values that are in the original array and save them to the new array
 	for (int i = 0; i < NewSize; i++)
 	{
